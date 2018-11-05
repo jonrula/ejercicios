@@ -1,0 +1,124 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="29D642AD-00AD-E134-38A3-D1C18E978C8A" name="PERSONAL">
+<createdBy>ubuntu</createdBy>
+<createdTime>2018-11-05 16:01:08 UTC</createdTime>
+<ownerDesignName>Ejercicio Parques Naturales</ownerDesignName>
+<engineerTo>
+<item key="708ED1C0-7AAE-5E24-F16C-27E775CACE81" value="true"/>
+</engineerTo>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="DNI" id="8B6F10AD-CB27-BF8C-896D-CE91A5F22ACD">
+<createdBy>ubuntu</createdBy>
+<createdTime>2018-11-05 16:02:19 UTC</createdTime>
+<ownerDesignName>Ejercicio Parques Naturales</ownerDesignName>
+<engineerTo>
+<item key="708ED1C0-7AAE-5E24-F16C-27E775CACE81" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>9</dataTypeSize>
+<ownDataTypeParameters>9,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="Nº_ss" id="E4012AE4-0069-DADA-6799-8B041E2E3504">
+<createdBy>ubuntu</createdBy>
+<createdTime>2018-11-05 16:01:23 UTC</createdTime>
+<ownerDesignName>Ejercicio Parques Naturales</ownerDesignName>
+<engineerTo>
+<item key="708ED1C0-7AAE-5E24-F16C-27E775CACE81" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>12</dataTypeSize>
+<ownDataTypeParameters>12,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="Nombre" id="9921B387-215B-2404-740C-4F3899AEF21D">
+<createdBy>ubuntu</createdBy>
+<createdTime>2018-11-05 16:03:43 UTC</createdTime>
+<ownerDesignName>Ejercicio Parques Naturales</ownerDesignName>
+<engineerTo>
+<item key="708ED1C0-7AAE-5E24-F16C-27E775CACE81" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>20</dataTypeSize>
+<ownDataTypeParameters>20,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="Dirección" id="F08F8B1A-6C0C-5D14-6FF0-DDD7C8C73908">
+<createdBy>ubuntu</createdBy>
+<createdTime>2018-11-05 16:04:31 UTC</createdTime>
+<ownerDesignName>Ejercicio Parques Naturales</ownerDesignName>
+<engineerTo>
+<item key="708ED1C0-7AAE-5E24-F16C-27E775CACE81" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>50</dataTypeSize>
+<ownDataTypeParameters>50,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="Teléfono_Casa" id="9A67A638-D182-5F98-B59E-5C8469B25B05">
+<createdBy>ubuntu</createdBy>
+<createdTime>2018-11-05 16:05:03 UTC</createdTime>
+<ownerDesignName>Ejercicio Parques Naturales</ownerDesignName>
+<engineerTo>
+<item key="708ED1C0-7AAE-5E24-F16C-27E775CACE81" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>12</dataTypeSize>
+<ownDataTypeParameters>12,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="Teléfono_Móvil" id="5BC041F2-48CE-19D2-E002-EAF1DAE5DA5F">
+<createdBy>ubuntu</createdBy>
+<createdTime>2018-11-05 16:05:54 UTC</createdTime>
+<ownerDesignName>Ejercicio Parques Naturales</ownerDesignName>
+<engineerTo>
+<item key="708ED1C0-7AAE-5E24-F16C-27E775CACE81" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>9</dataTypeSize>
+<ownDataTypeParameters>9,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="Sueldo" id="8681F7B4-5834-19A0-3C5A-5D0B5F26562F">
+<createdBy>ubuntu</createdBy>
+<createdTime>2018-11-05 16:06:23 UTC</createdTime>
+<ownerDesignName>Ejercicio Parques Naturales</ownerDesignName>
+<engineerTo>
+<item key="708ED1C0-7AAE-5E24-F16C-27E775CACE81" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>10</dataTypeSize>
+<ownDataTypeParameters>10,,</ownDataTypeParameters>
+</Attribute>
+</attributes>
+<identifiers itemClass="oracle.dbtools.crest.model.design.logical.CandidateKey">
+<identifier id="690B78EA-C16B-95F1-F651-F0935E404B62" name="PERSONAL PK">
+<createdBy>ubuntu</createdBy>
+<createdTime>2018-11-05 16:01:33 UTC</createdTime>
+<ownerDesignName>Ejercicio Parques Naturales</ownerDesignName>
+<engineerTo>
+<item key="708ED1C0-7AAE-5E24-F16C-27E775CACE81" value="true"/>
+</engineerTo>
+<pk>true</pk>
+<usedAttributes>
+<attributeRef>8B6F10AD-CB27-BF8C-896D-CE91A5F22ACD</attributeRef>
+</usedAttributes>
+</identifier>
+</identifiers>
+</Entity>

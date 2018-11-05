@@ -1,0 +1,18 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.InheritanceRelation" name="Hierarchy_7" directorySegmentName="seg_0" id="C5BF5107-091B-BD93-335D-9D5E094D0C7E">
+<createdBy>ubuntu</createdBy>
+<createdTime>2018-11-05 16:14:32 UTC</createdTime>
+<ownerDesignName>Ejercicio Parques Naturales</ownerDesignName>
+<engineerTo>
+<item key="708ED1C0-7AAE-5E24-F16C-27E775CACE81" value="true"/>
+</engineerTo>
+<identifying>false</identifying>
+<nameOnSource>Super Type</nameOnSource>
+<nameOnTarget>Sub Type</nameOnTarget>
+<optionalSource>true</optionalSource>
+<optionalTarget>true</optionalTarget>
+<sourceEntity>29D642AD-00AD-E134-38A3-D1C18E978C8A</sourceEntity>
+<targetEntity>8C1F7592-A7D9-2BF4-0E81-5AB3AA68DDE6</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+</Relation>

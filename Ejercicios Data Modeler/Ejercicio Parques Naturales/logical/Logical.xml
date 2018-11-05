@@ -1,0 +1,7 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<LogicalDesign class="oracle.dbtools.crest.model.design.logical.LogicalDesign" name="Logical" id="45C5AD8F-970D-8D0E-D304-B1445A2CBB0B" mainViewID="9F494304-9CF0-C241-C3F5-0FD528FF3572">
+<createdBy>ubuntu</createdBy>
+<createdTime>2018-11-05 15:33:33 UTC</createdTime>
+<ownerDesignName>Ejercicio Parques Naturales</ownerDesignName>
+<shouldBeOpen>false</shouldBeOpen>
+</LogicalDesign>

@@ -1,0 +1,20 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="Relation_13" directorySegmentName="seg_0" id="C48386E0-10F3-FBAC-B66C-3B4263D5A7A8">
+<createdBy>ubuntu</createdBy>
+<createdTime>2018-11-05 16:37:07 UTC</createdTime>
+<ownerDesignName>Ejercicio Parques Naturales</ownerDesignName>
+<engineerTo>
+<item key="708ED1C0-7AAE-5E24-F16C-27E775CACE81" value="true"/>
+</engineerTo>
+<sourcePk>690B78EA-C16B-95F1-F651-F0935E404B62</sourcePk>
+<targetPk>BAA47E4E-6C79-9B52-F1DC-53F934CA278B</targetPk>
+<identifying>false</identifying>
+<optionalSource>false</optionalSource>
+<optionalTarget>false</optionalTarget>
+<sourceCardinality>1</sourceCardinality>
+<sourceEntity>0523E9A4-83CC-1347-37B8-B803C8997FC5</sourceEntity>
+<targetCardinalityString>*</targetCardinalityString>
+<targetEntity>DB8A5BF0-53B7-A155-851B-954D2F0AFF58</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+</Relation>

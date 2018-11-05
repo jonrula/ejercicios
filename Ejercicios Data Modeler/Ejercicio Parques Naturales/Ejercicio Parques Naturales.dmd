@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="Ejercicio Parques Naturales" id="A290A2BD-15D3-85C9-E750-172EE6749ACD" version="3.5">
+<createdBy>ubuntu</createdBy>
+<createdTime>2018-11-05 15:33:33 UTC</createdTime>
+<ownerDesignName>Ejercicio Parques Naturales</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>A290A2BD-15D3-85C9-E750-172EE6749ACD</designId>
+</OSDM_Design>
